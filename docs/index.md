@@ -1,4 +1,4 @@
-# Welcome to the XDE docs site.
+# XDE Documentation
 
 XDE is an online browser which makes it easier to build and deploy cloud solutions.
 
