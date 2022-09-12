@@ -1,5 +1,7 @@
 # Welcome to the XDE docs site.
 
+XDE is an online browser which makes it easier to build and deploy cloud solutions.
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
