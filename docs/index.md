@@ -1,4 +1,4 @@
-# Welcome to the XDE docs site
+# Welcome to the XDE docs site.
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
